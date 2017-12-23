@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 3682-FE39
+
+ Directory of C:\Users\KaKhalatyan\tsts
+
+23.12.2017  19:15    <DIR>          .
+23.12.2017  19:15    <DIR>          ..
+23.12.2017  19:15                 0 ppp.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  260ÿ033ÿ376ÿ256 bytes free
+ssdsdsdsd
